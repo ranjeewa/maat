@@ -2,4 +2,4 @@
 testing maat
 
 by committing stuff
-repeatedly
+repeatedly with a certain type of message
